@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Board(object):
     def __init__(self, squares):
         # type: (List[BoardSquare]) -> None
